@@ -1,0 +1,71 @@
+body {
+	background-color: #0099FF;
+}
+
+#header {
+	
+	padding: 20px, 0, 20px, 0;
+	text-align: center;
+}
+
+#nav {
+	padding: 10px;
+	margin: 10px;
+}
+
+
+img.align-right {
+	float: right;
+	margin-right: 20px;
+	margin-top: -70px;
+	width: 225px;
+	height: 325px;
+	border-radius: 25px;
+}
+
+
+#name {
+	
+	font-family: cursive;
+	font-size: 36pt;
+	margin-bottom: -30px;
+}
+
+#email {
+	font-size: 15pt;
+	margin-bottom: -10px;
+}
+
+#contact {
+	font-size: 15;
+}
+
+#mission {
+	font-size: 15pt;
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-bottom: 25px;	
+}
+
+#break {
+	border-bottom: double #FFCCCC;
+	margin-right: 150px;
+	margin-left: 170px;
+	margin-top: -20px;
+}
+
+#body {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.title {
+	font-size: 15pt;
+	font-weight: bold;
+	text-align: center relative;
+}
+.breaktwo {
+	border-bottom: double #FFCCCC;
+	margin-right: 75px;
+	margin-left: 75px;
+}
