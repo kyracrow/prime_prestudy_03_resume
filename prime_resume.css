@@ -69,3 +69,7 @@ img.align-right {
 	margin-right: 75px;
 	margin-left: 75px;
 }
+
+.Resume_Hidden {
+	display: none;
+}
